@@ -10,4 +10,3 @@ class ListandoPessoas(admin.ModelAdmin):
 
 
 admin.site.register(Pessoa, ListandoPessoas)
-
